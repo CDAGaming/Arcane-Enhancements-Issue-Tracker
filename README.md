@@ -1,4 +1,4 @@
-<h1 align="center">Arcane Mechanics - REBORN (1.12.2)</h1>
+<h1 align="center">Arcane Enhancements (1.12.2)</h1>
 
 <h2>About</h2>
 Do you want to be a Wizard, or do you want to be a Gearhead?
